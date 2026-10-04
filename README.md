@@ -17,7 +17,7 @@ sudo -i
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-vless-easy-deploy/main/install-singbox-yyds2.sh)
 ```
-或使用内存分页版本，仅支持vless+reality，经过内存优化，可以在内存大于34MB的机器上运行：
+**或使用内存分页版本**：仅支持vless+reality，经过内存优化，可以在内存大于34MB的机器上运行：
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-vless-easy-deploy/main/install-singbox-yyds3.sh)
 ```
