@@ -17,8 +17,11 @@ sudo -i
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-vless-easy-deploy/main/install-singbox-yyds2.sh)
 ```
+或使用内存分页版本，仅支持vless+reality，经过内存优化，可以在内存大于34MB的机器上运行：
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-vless-easy-deploy/main/install-singbox-yyds3.sh)
+```
 
-请将命令中的 `你的用户名` 替换为你的 GitHub 用户名。
 
 安装过程中可以自定义节点名称、端口和密码。直接按回车时，脚本会自动生成随机配置。
 
