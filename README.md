@@ -123,7 +123,7 @@ sb
 
 ```bash
 sudo -i
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/sing-box-easy-deploy/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-vless-easy-deploy/main/install-singbox-yyds2.sh)
 ```
 
 安装完成后输入：
@@ -152,7 +152,7 @@ vless://UUID@落地机IP:端口?encryption=none&flow=xtls-rprx-vision&security=r
 
 ```bash
 sudo -i
-bash <(curl -fsSL https://raw.githubusercontent.com/你的用户名/sing-box-easy-deploy/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/MrlixiangWE/sing-box-vless-easy-deploy/main/install-singbox-yyds2.sh)
 ```
 
 安装完成后输入：
